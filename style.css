@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-top: 70px;
+  background-color: #333;
+  color: #fff;
+}
+
+.output-visibility {
+  visibility: hidden;
+}
+
+#output h4 {
+  margin-left: 0.8rem;
+}
+
+#gramsoutput,
+#kilogramsoutput,
+#ouncesoutput {
+  margin-left: 1rem;
+}
